@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 ![](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-Pop!_OS-48B9C7?logo=Pop!_OS&logoColor=white&style=flat)
