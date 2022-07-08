@@ -8,7 +8,7 @@
 ![](https://img.shields.io/badge/-vscode-007ACC?logo=Visual%20Studio%20Code&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-RStudio-007ACC?logo=RStudio&logoColor=white&style=flat)
 [![](https://img.shields.io/badge/-Spotify-1DB954?logo=Spotify&logoColor=white&style=flat)](https://open.spotify.com/user/31xabugm27xkm377cjtip3e6dtsq)
----
+
 Analysis and data science, work with R, play with python. 
 
 - 🔭 I’m currently working with health care data
