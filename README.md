@@ -12,7 +12,7 @@
 Analysis and data science, work with R, play with python. 
 
 - 🔭 I’m currently working with health care data
-- 💬 Ask me about R
+- 💬 Ask me about R or my R package `odns`
 - 📫 How to reach me: jrh-dev@protonmail.com
 - ⚡ Fun fact: dogs can't look up
 
