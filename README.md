@@ -9,7 +9,7 @@
 ![](https://img.shields.io/badge/-RStudio-007ACC?logo=RStudio&logoColor=white&style=flat)
 [![](https://img.shields.io/badge/-Spotify-1DB954?logo=Spotify&logoColor=white&style=flat)](https://open.spotify.com/user/31xabugm27xkm377cjtip3e6dtsq)
 
-Analysis and data science, work with R, play with python. 
+Data analyst, R developer, python enjoyer, linux user.
 
 - 🔭 I’m currently working with health care data
 - 💬 Ask me about R or my R package `odns`
