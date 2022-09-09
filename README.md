@@ -13,7 +13,7 @@ Data analyst, R developer, python enjoyer, linux user.
 
 - 🔭 I’m currently working with health care data
 - 💬 Ask me about R or my R package `odns`
-- 🌍 <jrh-dev.github.io/>
+- 🌍 <https://jrh-dev.github.io/>
 - 📫 How to reach me: jrh-dev@protonmail.com
 - ⚡ Fun fact: dogs can't look up
 
