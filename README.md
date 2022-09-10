@@ -15,7 +15,7 @@ Data analyst, R developer, python enjoyer, linux user.
 - 💬 Ask me about R or my R package `odns`
 - 🌍 Check out my site <https://jrh-dev.github.io/>
 - 📫 How to reach me: jrh-dev@protonmail.com
-- ⚡ Fun fact: dogs can't look up :cricket_game: :zombie:
+- ⚡ Fun fact: dogs can't look up :cricket_game::zombie:
 
 ![James' GitHub stats](https://github-readme-stats.vercel.app/api?username=jrh-dev&show_icons=true&theme=radical)
 
