@@ -7,7 +7,7 @@
 ![](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=PostgreSQL&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-vscode-007ACC?logo=Visual%20Studio%20Code&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-RStudio-007ACC?logo=RStudio&logoColor=white&style=flat)
-[![](https://img.shields.io/badge/-Spotify-1DB954?logo=Spotify&logoColor=white&style=flat)](https://open.spotify.com/user/31xabugm27xkm377cjtip3e6dtsq)
+[![](https://img.shields.io/badge/-Spotify-1DB954?logo=Spotify&logoColor=white&style=flat)](https://open.spotify.com/user/31rdtlg222hpvpcnnwphyz5kq43a)
 
 Data analyst, R developer, python enjoyer, linux user.
 
