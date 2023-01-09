@@ -19,4 +19,4 @@ Data analyst, R developer, python enjoyer, linux user.
 
 ![James' GitHub stats](https://github-readme-stats.vercel.app/api?username=jrh-dev&show_icons=true&theme=nord)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrh-dev&theme=nord&hide=html,css,scss)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrh-dev&theme=nord&hide=html,css,scss,javascript,ruby)
