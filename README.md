@@ -17,6 +17,6 @@ Data analyst, R developer, python enjoyer, linux user.
 - 📫 How to reach me: jrh-dev@protonmail.com
 - ⚡ Fun fact: dogs can't look up :cricket_game::zombie::beer:
 
-![James' GitHub stats](https://github-readme-stats.vercel.app/api?username=jrh-dev&show_icons=true&theme=radical)
+![James' GitHub stats](https://github-readme-stats.vercel.app/api?username=jrh-dev&show_icons=true&theme=nord)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrh-dev&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrh-dev&theme=nord&hide=html,css,scss)
