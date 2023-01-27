@@ -1,7 +1,7 @@
 # 👋 Hi there
 
 ![](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=white&style=flat)
-![](https://img.shields.io/badge/-Arch-1793D1?logo=Arch Linux&logoColor=white&style=flat)
+![](https://img.shields.io/badge/-Arch-1793D1?logo=Arch%20Linux&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-Pop!_OS-48B9C7?logo=Pop!_OS&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-Debian-A81D33?logo=Debian&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-R-276DC3?logo=R&logoColor=white&style=flat)
