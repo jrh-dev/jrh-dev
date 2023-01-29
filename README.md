@@ -12,7 +12,7 @@
 ![](https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=white&style=flat)
 [![](https://img.shields.io/badge/-Spotify-1DB954?logo=Spotify&logoColor=white&style=flat)](https://open.spotify.com/user/31rdtlg222hpvpcnnwphyz5kq43a)
 
-Data analyst, R developer, python enjoyer, linux user.
+Data analyst, R and python developer, linux user.
 
 - 🔭 I’m currently working with health care data
 - 💬 Ask me about R or my R package `odns`
