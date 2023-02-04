@@ -2,10 +2,9 @@
 
 ![](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-Arch-1793D1?logo=Arch%20Linux&logoColor=white&style=flat)
-![](https://img.shields.io/badge/-Pop!_OS-48B9C7?logo=Pop!_OS&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-Debian-A81D33?logo=Debian&logoColor=white&style=flat)
-![](https://img.shields.io/badge/-R-276DC3?logo=R&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=flat)
+![](https://img.shields.io/badge/-R-276DC3?logo=R&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=PostgreSQL&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-vscode-007ACC?logo=Visual%20Studio%20Code&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-RStudio-007ACC?logo=RStudio&logoColor=white&style=flat)
