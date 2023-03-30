@@ -9,11 +9,11 @@
 ![](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=flat-square)
 ![](https://img.shields.io/badge/-R-276DC3?logo=R&logoColor=white&style=flat-square)
 
-### Code editor's I'm using
+### Preferred IDE's
 ![](https://img.shields.io/badge/-vscode-007ACC?logo=Visual%20Studio%20Code&logoColor=white&style=flat-square)
 ![](https://img.shields.io/badge/-RStudio-007ACC?logo=RStudio&logoColor=white&style=flat-square)
 
-### Currently working with
+### Currently working with...
 ![](https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=white&style=flat-square)
 ![](https://img.shields.io/badge/-Kubernetes-0079C1?logo=Kubernetes&logoColor=white&style=flat-square)
 ![](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=PostgreSQL&logoColor=white&style=flat-square)
@@ -21,7 +21,7 @@
 ![](https://img.shields.io/badge/-Apache%20Spark-0079C1?logo=ApacheSpark&logoColor=white&style=flat-square)
 ![](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=Streamlit&logoColor=white&style=flat-square)
 
-### Listening to
+### Listening to...
 [![](https://img.shields.io/badge/-Spotify-1DB954?logo=Spotify&logoColor=white&style=flat-square)](https://open.spotify.com/user/31rdtlg222hpvpcnnwphyz5kq43a)
 
 Python and R developer. Interested in data analysis, data engineering, and data science. 
