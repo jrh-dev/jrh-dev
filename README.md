@@ -28,7 +28,7 @@ Python and R developer. Interested in data analysis, data engineering, and data 
 
 Linux enjoyer & FOSS enthusiast.
 
-- 🔭 I’m currently working as a python dev.
+- 🔭 I’m currently working as a python developer
 - 💬 Ask me about the R programming language :heart:  
 - 🌍 Check out my site <https://jrh-dev.github.io/>
 - 📫 How to reach me: jrh-dev@protonmail.com
