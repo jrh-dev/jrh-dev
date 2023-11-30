@@ -1,5 +1,7 @@
 # 👋 Hi there
 
+Python and R developer. Interested in data analysis, data engineering, and data science. 
+
 ### Daily driver
 
 ![](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=white&style=flat-square)
@@ -23,8 +25,6 @@
 
 ### Listening to...
 [![](https://img.shields.io/badge/-Spotify-1DB954?logo=Spotify&logoColor=white&style=flat-square)](https://open.spotify.com/user/31rdtlg222hpvpcnnwphyz5kq43a)
-
-Python and R developer. Interested in data analysis, data engineering, and data science. 
 
 Linux enjoyer & FOSS enthusiast.
 
